@@ -295,7 +295,7 @@ difficulties.forEach((btn, i) => {
 
 // Initialize Firebase
 var config = {
-	apiKey: "AIzaSyChZ9IggT4iFj8aow4kwtwTBHm5TNLlsd8",
+	apiKey:"xxx",
 	authDomain: "games-521f9.firebaseapp.com",
 	databaseURL: "https://games-521f9.firebaseio.com",
 	projectId: "games-521f9",
